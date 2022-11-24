@@ -9,4 +9,5 @@
     cd (文件路径)
     python.exe .\文件名.py .\Images(这里不能修改) + '回车'
 就行了。
-（好吧，我不得不告诉你那样其实没什么卵用，你得先下载Pgzrun（Pygame zero)和pygame。见:pip install pgzero,也可以去看这个链接：https://pypi.org/project/pgzero,前提是你看得懂。）
+（好吧，我不得不告诉你那样其实没什么卵用，你得先下载Pgzrun（Pygame zero)和pygame。见:pip install pgzero,也可以去看这个链接：https://pypi.org/project/pgzero/
+前提是你看得懂。）
